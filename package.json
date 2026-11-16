@@ -1,0 +1,9 @@
+{
+  "name": "studypilot-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "StudyPilot 项目作品集展示页（杂志风 + 柔和粒子）",
+  "scripts": {
+    "dev": "node server.js"
+  }
+}
